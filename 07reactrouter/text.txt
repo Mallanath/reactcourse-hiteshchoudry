@@ -1,0 +1,17 @@
+# reac-router-dom
+Link
+Navlink
+<outlet/>
+useParam() for user:123 
+useLoaderData helps in fetching data
+const router =  createBrowserRouter(
+  createRoutesFromElements(
+    <Route path='/' element={<Layout/>}>
+    </Route>
+  ))
+
+  ReactDOM.createRoot(document.getElementById('root')).render(
+  <React.StrictMode>
+    <RouterProvider router={router}/>
+  </React.StrictMode>,
+)
