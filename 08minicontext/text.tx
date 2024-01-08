@@ -1,0 +1,10 @@
+1.create context
+2.then the context needs a context provider
+3.make sure all teh people are aware of there is a context
+so that i can take the data and send the data
+
+1.start
+2. create a react app
+3. create context
+4. provide the context
+5. consume the context in Child Component
