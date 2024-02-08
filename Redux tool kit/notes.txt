@@ -1,0 +1,8 @@
+1.store:means store is one such Global store which keeps track of 
+all states
+2.reducers: reducers can be compared to controler where all the logic are 
+writen and how we actull use then 
+3.useSelector: it can directly talk to store to bring any information from 
+out of it 
+4.useDispatch: useDispatch is used with reducers to update the information
+in store
